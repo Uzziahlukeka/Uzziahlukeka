@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **some school projects and javascript**
+- 🔭 I’m currently working on **Laravel project , ML and AI projects**
 
-- 🌱 I’m currently learning **javascript and clouds technology**
+- 🌱 I’m currently learning **ML , AI and functionnal programming**
 
-- 💬 Ask me about **java , python , php , mysql ,cisco packet tracer**
+- 💬 Ask me about **java , python , php , mysql ,cisco packet tracer , clouds computing , mongoDB , Laravel**
 
 - 📫 How to reach me **uzziahlukeka@gmail.com**
 
