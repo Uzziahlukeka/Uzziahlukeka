@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ML and AI**
 
-- 💬 Ask me about **java , python , php , mysql ,cisco packet tracer , clouds computing , mongoDB , Laravel**
+- 💬 Ask me about **php , Laravel , Livewire , Filament , Database ,AI, clouds computing , mongoDB**
 
 - 📫 How to reach me **uzziahlukeka@gmail.com**
 
